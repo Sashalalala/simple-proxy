@@ -1,0 +1,14 @@
+{
+    "name": "sashalalala/simple-proxy",
+    "description": "Simple proxy server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sasha Mars",
+            "email": "sashalalala1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
