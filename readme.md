@@ -2,7 +2,6 @@
 
 ### REQUIRE
     + PHP > 7.1
-    + PHP-CURL
 
 All requests must be rewritten on index.php (for configure apache2 use _.htaccess file )
 
