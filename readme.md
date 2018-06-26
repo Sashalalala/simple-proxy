@@ -1,4 +1,4 @@
-#SIMPLE PROXY
+# SIMPLE PROXY
 
 ### REQUIRE
     + PHP > 7.1
